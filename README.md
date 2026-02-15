@@ -13,7 +13,7 @@ Flutter öğrenme yolculuğumun ilk meyvesi olan Sevgililer Günü Kartpostalı 
 
 | Uygulama Ekranı | Uygulama İkonu |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/93be654b-4361-4fa9-97b9-c8fcb3977b66" width="250"> | <img src="https://github.com/user-attachments/assets/28edde2b-bc0b-4b5a-9bad-9426e317ebbf" width="150"> |
+| <img src="https://github.com/user-attachments/assets/93be654b-4361-4fa9-97b9-c8fcb3977b66" width="250"> | <img src="https://github.com/user-attachments/assets/28edde2b-bc0b-4b5a-9bad-9426e317ebbf" width="250"> |
 
 
 ---
