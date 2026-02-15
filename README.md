@@ -12,8 +12,8 @@ Flutter öğrenme yolculuğumun ilk meyvesi olan Sevgililer Günü Kartpostalı 
 ## 📸 Uygulamadan Görüntüler
 | Uygulama Ekranı | Uygulama İkonu |
 | :---: | :---: |
-|![Sevgililer_Günü_Kartpostalı](https://github.com/user-attachments/assets/0edd9554-f1f2-4de1-ac79-4c35648f334f)|
- |![Sevgililer_Günü_Kartpostalı_Uygulama_İconu](https://github.com/user-attachments/assets/c2890572-4304-42cd-994e-231c57f5d39a)|
+| ![Sevgililer Günü Kartpostalı](![Sevgililer_Günü_Kartpostalı])(https://github.com/user-attachments/assets/93be654b-4361-4fa9-97b9-c8fcb3977b66)| | ![Uygulama İkonu](![Sevgililer_Günü_Kartpostalı_Uygulama_İconu])(https://github.com/user-attachments/assets/28edde2b-bc0b-4b5a-9bad-9426e317ebbf)|
+
 
 ---
 *Bilişim Sistemleri ve Teknolojileri 3. sınıf öğrencisi olarak gelişimime devam ediyorum.* 🚀
